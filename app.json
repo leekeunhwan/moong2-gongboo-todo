@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "moong2-gongboo-todo",
-    "description": "This project is really great.",
+    "name": "My To-Do Study App",
+    "description": "I'm going to study hard",
     "slug": "moong2-gongboo-todo",
     "privacy": "public",
     "sdkVersion": "25.0.0",
